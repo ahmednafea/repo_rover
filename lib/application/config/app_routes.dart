@@ -5,7 +5,7 @@ import 'package:repo_rover/presentation/authentication/authentication_screen.dar
 class AppRoutes {
   /// Returns a list of [RouteBase] instances that define the available routes for the app.
   ///
-  /// The `rootNavigatorStateKey` and `shellNavigatorStateKey` parameters are required to provide keys
+  /// The `rootNavigatorKey` parameter is required to provide keys
   /// for the parent navigator of each route.
   static List<RouteBase> setupAppRoutes({
     required GlobalKey<NavigatorState> rootNavigatorKey,

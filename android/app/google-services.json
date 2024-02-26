@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "363620489762",
+    "project_id": "repo-rover",
+    "storage_bucket": "repo-rover.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363620489762:android:796b2f1e0abdae3059087b",
+        "android_client_info": {
+          "package_name": "com.nafea.repo_rover"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs2YZaFAyjmfYh0dTIwmYKfqzGGHRKlH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
